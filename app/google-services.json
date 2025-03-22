@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320954549425",
+    "project_id": "smalldbapp",
+    "storage_bucket": "smalldbapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320954549425:android:464dbecef11c20c7de8e90",
+        "android_client_info": {
+          "package_name": "com.example.smalldbapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPm2v7qaRs_4S4mhadXyX2-iXbpndnHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmallDBApplication</string>
+    <string name="title_activity_list_of_data">ListOfDataActivity</string>
+    <string name="title_activity_data_viewing">DataViewingActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+</resources>
